@@ -1,0 +1,295 @@
+Epoch 1 :d_real[0.51306] d_fake[0.50394] g_BCE[1.08562] d_real2[0.37462] d_fake2[0.34327] g_BCE2[2.65624] g_mse[0.06363] 
+Epoch 2 :d_real[0.51154] d_fake[0.54581] g_BCE[0.92992] d_real2[0.32535] d_fake2[0.30249] g_BCE2[3.08831] g_mse[0.04081] 
+Epoch 3 :d_real[0.43747] d_fake[0.49193] g_BCE[0.98480] d_real2[0.26187] d_fake2[0.23572] g_BCE2[3.63659] g_mse[0.03399] 
+Epoch 4 :d_real[0.34110] d_fake[0.40659] g_BCE[1.04219] d_real2[0.19358] d_fake2[0.20316] g_BCE2[3.83211] g_mse[0.03612] 
+Epoch 5 :d_real[0.35608] d_fake[0.42776] g_BCE[1.04114] d_real2[0.34887] d_fake2[0.36435] g_BCE2[2.72307] g_mse[0.03006] 
+> PatchGAN Discrim. Accuracy real: 25%, fake: 81% - Loss real: 1.194, fake: 0.467 
+> Global Discrim. Accuracy real: 29%, fake: 88% - Loss real: 1.207, fake: 0.307 
+Epoch 6 :d_real[0.34439] d_fake[0.44776] g_BCE[0.81938] d_real2[0.31983] d_fake2[0.31947] g_BCE2[2.95752] g_mse[0.02820] 
+Epoch 7 :d_real[0.33703] d_fake[0.45274] g_BCE[0.83081] d_real2[0.22531] d_fake2[0.24545] g_BCE2[3.43052] g_mse[0.02666] 
+Epoch 8 :d_real[0.30517] d_fake[0.41335] g_BCE[0.80212] d_real2[0.27312] d_fake2[0.25097] g_BCE2[3.22788] g_mse[0.02584] 
+Epoch 9 :d_real[0.33968] d_fake[0.45310] g_BCE[0.82856] d_real2[0.28364] d_fake2[0.28272] g_BCE2[3.14196] g_mse[0.02523] 
+Epoch 10 :d_real[0.27256] d_fake[0.37774] g_BCE[0.66185] d_real2[0.27277] d_fake2[0.27873] g_BCE2[3.05131] g_mse[0.02408] 
+> PatchGAN Discrim. Accuracy real: 34%, fake: 71% - Loss real: 0.860, fake: 0.579 
+> Global Discrim. Accuracy real: 8%, fake: 96% - Loss real: 1.820, fake: 0.194 
+Epoch 11 :d_real[0.39420] d_fake[0.47504] g_BCE[0.68097] d_real2[0.24482] d_fake2[0.25334] g_BCE2[3.37022] g_mse[0.02360] 
+Epoch 12 :d_real[0.39447] d_fake[0.48856] g_BCE[0.67953] d_real2[0.29413] d_fake2[0.30154] g_BCE2[3.00713] g_mse[0.02286] 
+Epoch 13 :d_real[0.44803] d_fake[0.54204] g_BCE[0.82698] d_real2[0.30646] d_fake2[0.31722] g_BCE2[3.11588] g_mse[0.02225] 
+Epoch 14 :d_real[0.32559] d_fake[0.42791] g_BCE[0.77958] d_real2[0.20766] d_fake2[0.22044] g_BCE2[3.49878] g_mse[0.02738] 
+Epoch 15 :d_real[0.38289] d_fake[0.47929] g_BCE[0.93817] d_real2[0.25168] d_fake2[0.21526] g_BCE2[3.85184] g_mse[0.02463] 
+> PatchGAN Discrim. Accuracy real: 59%, fake: 43% - Loss real: 0.671, fake: 0.738 
+> Global Discrim. Accuracy real: 9%, fake: 86% - Loss real: 1.789, fake: 0.316 
+Epoch 16 :d_real[0.43884] d_fake[0.52907] g_BCE[0.87507] d_real2[0.32013] d_fake2[0.31076] g_BCE2[3.19273] g_mse[0.02218] 
+Epoch 17 :d_real[0.42903] d_fake[0.51942] g_BCE[0.90869] d_real2[0.31968] d_fake2[0.33257] g_BCE2[2.94063] g_mse[0.02134] 
+Epoch 18 :d_real[0.46818] d_fake[0.54766] g_BCE[0.93939] d_real2[0.34624] d_fake2[0.35783] g_BCE2[3.05149] g_mse[0.02045] 
+Epoch 19 :d_real[0.46296] d_fake[0.54012] g_BCE[0.90340] d_real2[0.35627] d_fake2[0.38613] g_BCE2[2.82874] g_mse[0.01967] 
+Epoch 20 :d_real[0.48070] d_fake[0.56550] g_BCE[0.94656] d_real2[0.34097] d_fake2[0.34435] g_BCE2[2.89733] g_mse[0.01916] 
+> PatchGAN Discrim. Accuracy real: 87%, fake: 13% - Loss real: 0.481, fake: 0.993 
+> Global Discrim. Accuracy real: 13%, fake: 95% - Loss real: 1.794, fake: 0.171 
+Epoch 21 :d_real[0.47851] d_fake[0.57615] g_BCE[0.92748] d_real2[0.40660] d_fake2[0.41626] g_BCE2[2.45851] g_mse[0.01900] 
+Epoch 22 :d_real[0.48712] d_fake[0.58477] g_BCE[0.87951] d_real2[0.38470] d_fake2[0.39562] g_BCE2[2.45777] g_mse[0.01867] 
+Epoch 23 :d_real[0.50465] d_fake[0.58967] g_BCE[0.85559] d_real2[0.35068] d_fake2[0.37864] g_BCE2[2.42804] g_mse[0.01832] 
+Epoch 24 :d_real[0.49570] d_fake[0.59479] g_BCE[0.87953] d_real2[0.35878] d_fake2[0.36578] g_BCE2[2.60472] g_mse[0.01794] 
+Epoch 25 :d_real[0.48535] d_fake[0.58940] g_BCE[0.89200] d_real2[0.37440] d_fake2[0.39485] g_BCE2[2.35109] g_mse[0.01755] 
+> PatchGAN Discrim. Accuracy real: 72%, fake: 39% - Loss real: 0.607, fake: 0.759 
+> Global Discrim. Accuracy real: 18%, fake: 93% - Loss real: 1.961, fake: 0.212 
+Epoch 26 :d_real[0.50265] d_fake[0.60490] g_BCE[0.89860] d_real2[0.34964] d_fake2[0.38562] g_BCE2[2.61151] g_mse[0.01747] 
+Epoch 27 :d_real[0.50591] d_fake[0.60309] g_BCE[0.92719] d_real2[0.43152] d_fake2[0.45352] g_BCE2[2.19128] g_mse[0.01738] 
+Epoch 28 :d_real[0.50287] d_fake[0.60726] g_BCE[0.87833] d_real2[0.38774] d_fake2[0.42506] g_BCE2[1.96949] g_mse[0.01692] 
+Epoch 29 :d_real[0.49515] d_fake[0.59220] g_BCE[0.86341] d_real2[0.37517] d_fake2[0.40592] g_BCE2[2.22525] g_mse[0.01644] 
+Epoch 30 :d_real[0.51386] d_fake[0.62345] g_BCE[0.87088] d_real2[0.38453] d_fake2[0.41444] g_BCE2[2.21122] g_mse[0.01618] 
+> PatchGAN Discrim. Accuracy real: 73%, fake: 36% - Loss real: 0.609, fake: 0.769 
+> Global Discrim. Accuracy real: 95%, fake: 15% - Loss real: 0.168, fake: 2.091 
+Epoch 31 :d_real[0.49362] d_fake[0.61579] g_BCE[0.83511] d_real2[0.40441] d_fake2[0.44473] g_BCE2[1.89751] g_mse[0.01575] 
+Epoch 32 :d_real[0.49305] d_fake[0.60848] g_BCE[0.83486] d_real2[0.36808] d_fake2[0.41172] g_BCE2[1.88177] g_mse[0.01564] 
+Epoch 33 :d_real[0.49288] d_fake[0.59767] g_BCE[0.89403] d_real2[0.39825] d_fake2[0.44263] g_BCE2[1.86652] g_mse[0.01518] 
+Epoch 34 :d_real[0.47929] d_fake[0.58215] g_BCE[0.90980] d_real2[0.37719] d_fake2[0.41657] g_BCE2[1.91606] g_mse[0.01516] 
+Epoch 35 :d_real[0.42717] d_fake[0.52403] g_BCE[1.05920] d_real2[0.38829] d_fake2[0.44052] g_BCE2[1.70781] g_mse[0.01486] 
+> PatchGAN Discrim. Accuracy real: 73%, fake: 38% - Loss real: 0.595, fake: 0.786 
+> Global Discrim. Accuracy real: 6%, fake: 95% - Loss real: 2.047, fake: 0.174 
+Epoch 36 :d_real[0.26983] d_fake[0.35520] g_BCE[1.50794] d_real2[0.38105] d_fake2[0.39758] g_BCE2[2.15960] g_mse[0.01652] 
+Epoch 37 :d_real[0.27032] d_fake[0.31903] g_BCE[1.72015] d_real2[0.42786] d_fake2[0.45093] g_BCE2[1.96274] g_mse[0.01477] 
+Epoch 38 :d_real[0.44279] d_fake[0.50008] g_BCE[1.28152] d_real2[0.44489] d_fake2[0.48181] g_BCE2[1.91102] g_mse[0.01434] 
+Epoch 39 :d_real[0.46117] d_fake[0.53613] g_BCE[1.18946] d_real2[0.42387] d_fake2[0.46867] g_BCE2[1.84892] g_mse[0.01422] 
+Epoch 40 :d_real[0.17057] d_fake[0.24319] g_BCE[1.82408] d_real2[0.44072] d_fake2[0.46428] g_BCE2[1.82955] g_mse[0.01396] 
+> PatchGAN Discrim. Accuracy real: 1%, fake: 98% - Loss real: 1.126, fake: 0.361 
+> Global Discrim. Accuracy real: 42%, fake: 73% - Loss real: 0.934, fake: 0.551 
+Epoch 41 :d_real[0.23597] d_fake[0.30131] g_BCE[1.71663] d_real2[0.43306] d_fake2[0.47261] g_BCE2[1.81553] g_mse[0.01388] 
+Epoch 42 :d_real[0.21713] d_fake[0.27059] g_BCE[1.76805] d_real2[0.44120] d_fake2[0.48427] g_BCE2[1.65591] g_mse[0.01353] 
+Epoch 43 :d_real[0.34131] d_fake[0.37947] g_BCE[1.53901] d_real2[0.42243] d_fake2[0.46284] g_BCE2[1.54269] g_mse[0.01348] 
+Epoch 44 :d_real[0.45223] d_fake[0.48984] g_BCE[1.32936] d_real2[0.43618] d_fake2[0.47461] g_BCE2[1.57296] g_mse[0.01331] 
+Epoch 45 :d_real[0.54783] d_fake[0.62981] g_BCE[1.00893] d_real2[0.42142] d_fake2[0.46643] g_BCE2[1.64905] g_mse[0.01311] 
+> PatchGAN Discrim. Accuracy real: 39%, fake: 52% - Loss real: 0.773, fake: 0.712 
+> Global Discrim. Accuracy real: 91%, fake: 31% - Loss real: 0.261, fake: 1.621 
+Epoch 46 :d_real[0.38468] d_fake[0.47397] g_BCE[1.22966] d_real2[0.43061] d_fake2[0.48161] g_BCE2[1.56993] g_mse[0.01319] 
+Epoch 47 :d_real[0.38063] d_fake[0.47232] g_BCE[1.20634] d_real2[0.45520] d_fake2[0.50665] g_BCE2[1.48125] g_mse[0.01265] 
+Epoch 48 :d_real[0.37822] d_fake[0.44294] g_BCE[1.29329] d_real2[0.45142] d_fake2[0.48908] g_BCE2[1.47819] g_mse[0.01261] 
+Epoch 49 :d_real[0.21987] d_fake[0.28807] g_BCE[1.53459] d_real2[0.45652] d_fake2[0.50843] g_BCE2[1.48093] g_mse[0.01261] 
+Epoch 50 :d_real[0.36147] d_fake[0.42522] g_BCE[1.31626] d_real2[0.46350] d_fake2[0.50792] g_BCE2[1.46196] g_mse[0.01227] 
+> PatchGAN Discrim. Accuracy real: 71%, fake: 32% - Loss real: 0.612, fake: 0.809 
+> Global Discrim. Accuracy real: 58%, fake: 73% - Loss real: 0.705, fake: 0.509 
+Epoch 51 :d_real[0.27662] d_fake[0.33910] g_BCE[1.45387] d_real2[0.45022] d_fake2[0.50021] g_BCE2[1.44499] g_mse[0.01241] 
+Epoch 52 :d_real[0.37877] d_fake[0.45629] g_BCE[1.24910] d_real2[0.45190] d_fake2[0.50052] g_BCE2[1.39420] g_mse[0.01220] 
+Epoch 53 :d_real[0.28793] d_fake[0.34617] g_BCE[1.41531] d_real2[0.47847] d_fake2[0.52668] g_BCE2[1.40288] g_mse[0.01188] 
+Epoch 54 :d_real[0.32277] d_fake[0.38800] g_BCE[1.34407] d_real2[0.48969] d_fake2[0.53199] g_BCE2[1.40414] g_mse[0.01207] 
+Epoch 55 :d_real[0.30275] d_fake[0.36880] g_BCE[1.39055] d_real2[0.47933] d_fake2[0.52727] g_BCE2[1.32548] g_mse[0.01191] 
+> PatchGAN Discrim. Accuracy real: 36%, fake: 64% - Loss real: 0.765, fake: 0.647 
+> Global Discrim. Accuracy real: 17%, fake: 92% - Loss real: 1.477, fake: 0.264 
+Epoch 56 :d_real[0.43526] d_fake[0.51545] g_BCE[1.15719] d_real2[0.46607] d_fake2[0.50745] g_BCE2[1.40526] g_mse[0.01205] 
+Epoch 57 :d_real[0.42433] d_fake[0.51285] g_BCE[1.10102] d_real2[0.47952] d_fake2[0.52443] g_BCE2[1.35797] g_mse[0.01147] 
+Epoch 58 :d_real[0.30026] d_fake[0.39389] g_BCE[1.33224] d_real2[0.48440] d_fake2[0.52604] g_BCE2[1.37771] g_mse[0.01152] 
+Epoch 59 :d_real[0.38840] d_fake[0.46725] g_BCE[1.20648] d_real2[0.49501] d_fake2[0.53286] g_BCE2[1.35778] g_mse[0.01117] 
+Epoch 60 :d_real[0.24762] d_fake[0.34011] g_BCE[1.44298] d_real2[0.49652] d_fake2[0.53453] g_BCE2[1.35765] g_mse[0.01122] 
+> PatchGAN Discrim. Accuracy real: 6%, fake: 95% - Loss real: 0.932, fake: 0.472 
+> Global Discrim. Accuracy real: 22%, fake: 86% - Loss real: 1.428, fake: 0.351 
+Epoch 61 :d_real[0.36600] d_fake[0.44671] g_BCE[1.22383] d_real2[0.50191] d_fake2[0.53776] g_BCE2[1.32569] g_mse[0.01125] 
+Epoch 62 :d_real[0.33817] d_fake[0.42317] g_BCE[1.25377] d_real2[0.49076] d_fake2[0.53042] g_BCE2[1.30732] g_mse[0.01117] 
+Epoch 63 :d_real[0.43390] d_fake[0.54959] g_BCE[1.04989] d_real2[0.52206] d_fake2[0.55400] g_BCE2[1.22776] g_mse[0.01080] 
+Epoch 64 :d_real[0.33918] d_fake[0.49706] g_BCE[1.11072] d_real2[0.48718] d_fake2[0.52519] g_BCE2[1.25016] g_mse[0.01083] 
+Epoch 65 :d_real[0.27513] d_fake[0.41318] g_BCE[1.20961] d_real2[0.51051] d_fake2[0.54244] g_BCE2[1.23454] g_mse[0.01067] 
+> PatchGAN Discrim. Accuracy real: 13%, fake: 87% - Loss real: 0.859, fake: 0.537 
+> Global Discrim. Accuracy real: 5%, fake: 94% - Loss real: 2.268, fake: 0.241 
+Epoch 66 :d_real[0.34521] d_fake[0.48930] g_BCE[1.10489] d_real2[0.50414] d_fake2[0.54826] g_BCE2[1.18398] g_mse[0.01064] 
+Epoch 67 :d_real[0.51365] d_fake[0.61624] g_BCE[0.91597] d_real2[0.50619] d_fake2[0.54764] g_BCE2[1.15103] g_mse[0.01041] 
+Epoch 68 :d_real[0.57366] d_fake[0.70635] g_BCE[0.78849] d_real2[0.51106] d_fake2[0.55246] g_BCE2[1.13006] g_mse[0.01045] 
+Epoch 69 :d_real[0.56326] d_fake[0.69042] g_BCE[0.80588] d_real2[0.49882] d_fake2[0.53883] g_BCE2[1.16828] g_mse[0.01071] 
+Epoch 70 :d_real[0.51303] d_fake[0.65941] g_BCE[0.83000] d_real2[0.53370] d_fake2[0.56703] g_BCE2[1.13997] g_mse[0.01008] 
+> PatchGAN Discrim. Accuracy real: 98%, fake: 3% - Loss real: 0.465, fake: 0.990 
+> Global Discrim. Accuracy real: 75%, fake: 49% - Loss real: 0.538, fake: 0.805 
+Epoch 71 :d_real[0.49358] d_fake[0.67075] g_BCE[0.79714] d_real2[0.51877] d_fake2[0.55801] g_BCE2[1.14481] g_mse[0.01008] 
+Epoch 72 :d_real[0.55251] d_fake[0.72850] g_BCE[0.74017] d_real2[0.54017] d_fake2[0.57667] g_BCE2[1.12089] g_mse[0.00991] 
+Epoch 73 :d_real[0.48872] d_fake[0.67761] g_BCE[0.78580] d_real2[0.46340] d_fake2[0.49688] g_BCE2[1.42167] g_mse[0.01251] 
+Epoch 74 :d_real[0.50612] d_fake[0.68552] g_BCE[0.78454] d_real2[0.53405] d_fake2[0.57103] g_BCE2[1.10304] g_mse[0.01002] 
+Epoch 75 :d_real[0.45568] d_fake[0.62278] g_BCE[0.85774] d_real2[0.53810] d_fake2[0.57259] g_BCE2[1.08951] g_mse[0.00977] 
+> PatchGAN Discrim. Accuracy real: 58%, fake: 49% - Loss real: 0.689, fake: 0.689 
+> Global Discrim. Accuracy real: 38%, fake: 80% - Loss real: 0.930, fake: 0.446 
+Epoch 76 :d_real[0.52887] d_fake[0.69640] g_BCE[0.76262] d_real2[0.53939] d_fake2[0.57677] g_BCE2[1.12055] g_mse[0.00968] 
+Epoch 77 :d_real[0.56451] d_fake[0.70608] g_BCE[0.75399] d_real2[0.53469] d_fake2[0.57213] g_BCE2[1.09331] g_mse[0.00971] 
+Epoch 78 :d_real[0.58059] d_fake[0.70538] g_BCE[0.75461] d_real2[0.54024] d_fake2[0.57734] g_BCE2[1.08814] g_mse[0.00946] 
+Epoch 79 :d_real[0.60227] d_fake[0.72558] g_BCE[0.73684] d_real2[0.55725] d_fake2[0.58852] g_BCE2[1.13413] g_mse[0.00937] 
+Epoch 80 :d_real[0.59954] d_fake[0.71604] g_BCE[0.74090] d_real2[0.54929] d_fake2[0.57863] g_BCE2[1.08312] g_mse[0.00924] 
+> PatchGAN Discrim. Accuracy real: 54%, fake: 48% - Loss real: 0.695, fake: 0.692 
+> Global Discrim. Accuracy real: 4%, fake: 93% - Loss real: 3.195, fake: 0.198 
+Epoch 81 :d_real[0.60710] d_fake[0.72350] g_BCE[0.72792] d_real2[0.53184] d_fake2[0.57374] g_BCE2[1.03294] g_mse[0.00934] 
+Epoch 82 :d_real[0.60550] d_fake[0.70968] g_BCE[0.74360] d_real2[0.54112] d_fake2[0.57803] g_BCE2[1.05845] g_mse[0.00914] 
+Epoch 83 :d_real[0.61564] d_fake[0.70212] g_BCE[0.75493] d_real2[0.53851] d_fake2[0.57745] g_BCE2[1.05294] g_mse[0.00902] 
+Epoch 84 :d_real[0.61008] d_fake[0.69874] g_BCE[0.76317] d_real2[0.53961] d_fake2[0.57384] g_BCE2[1.06242] g_mse[0.00911] 
+Epoch 85 :d_real[0.61365] d_fake[0.69881] g_BCE[0.76425] d_real2[0.54884] d_fake2[0.58495] g_BCE2[1.02823] g_mse[0.00902] 
+> PatchGAN Discrim. Accuracy real: 34%, fake: 68% - Loss real: 0.740, fake: 0.652 
+> Global Discrim. Accuracy real: 37%, fake: 80% - Loss real: 0.985, fake: 0.414 
+Epoch 86 :d_real[0.60993] d_fake[0.71784] g_BCE[0.74271] d_real2[0.54104] d_fake2[0.57765] g_BCE2[1.05126] g_mse[0.00909] 
+Epoch 87 :d_real[0.60766] d_fake[0.71757] g_BCE[0.74405] d_real2[0.54865] d_fake2[0.58830] g_BCE2[1.03345] g_mse[0.00875] 
+Epoch 88 :d_real[0.61164] d_fake[0.71275] g_BCE[0.74594] d_real2[0.55608] d_fake2[0.59327] g_BCE2[1.02261] g_mse[0.00865] 
+Epoch 89 :d_real[0.61100] d_fake[0.70381] g_BCE[0.75626] d_real2[0.56455] d_fake2[0.59331] g_BCE2[1.06300] g_mse[0.00866] 
+Epoch 90 :d_real[0.56894] d_fake[0.67816] g_BCE[0.79529] d_real2[0.55767] d_fake2[0.59087] g_BCE2[1.09774] g_mse[0.00863] 
+> PatchGAN Discrim. Accuracy real: 65%, fake: 47% - Loss real: 0.649, fake: 0.706 
+> Global Discrim. Accuracy real: 11%, fake: 99% - Loss real: 1.550, fake: 0.154 
+Epoch 91 :d_real[0.59466] d_fake[0.68093] g_BCE[0.78543] d_real2[0.57019] d_fake2[0.60010] g_BCE2[1.04562] g_mse[0.00855] 
+Epoch 92 :d_real[0.60807] d_fake[0.70048] g_BCE[0.76591] d_real2[0.55934] d_fake2[0.59539] g_BCE2[1.08344] g_mse[0.00852] 
+Epoch 93 :d_real[0.56087] d_fake[0.65023] g_BCE[0.82589] d_real2[0.57014] d_fake2[0.60280] g_BCE2[1.02004] g_mse[0.00854] 
+Epoch 94 :d_real[0.50970] d_fake[0.59533] g_BCE[0.91784] d_real2[0.58779] d_fake2[0.61720] g_BCE2[1.03750] g_mse[0.00827] 
+Epoch 95 :d_real[0.36955] d_fake[0.46599] g_BCE[1.10341] d_real2[0.57071] d_fake2[0.60416] g_BCE2[1.03380] g_mse[0.00852] 
+> PatchGAN Discrim. Accuracy real: 12%, fake: 79% - Loss real: 0.987, fake: 0.558 
+> Global Discrim. Accuracy real: 3%, fake: 97% - Loss real: 2.309, fake: 0.200 
+Epoch 96 :d_real[0.63647] d_fake[0.70189] g_BCE[0.77403] d_real2[0.58035] d_fake2[0.61308] g_BCE2[0.98195] g_mse[0.00831] 
+Epoch 97 :d_real[0.62583] d_fake[0.70154] g_BCE[0.76951] d_real2[0.58439] d_fake2[0.61416] g_BCE2[0.99407] g_mse[0.00827] 
+Epoch 98 :d_real[0.63473] d_fake[0.72519] g_BCE[0.74242] d_real2[0.60292] d_fake2[0.62974] g_BCE2[0.98154] g_mse[0.00816] 
+Epoch 99 :d_real[0.61772] d_fake[0.69226] g_BCE[0.78129] d_real2[0.59708] d_fake2[0.61560] g_BCE2[1.05766] g_mse[0.00810] 
+Epoch 100 :d_real[0.65577] d_fake[0.71760] g_BCE[0.73580] d_real2[0.59884] d_fake2[0.62057] g_BCE2[1.07155] g_mse[0.00800] 
+> PatchGAN Discrim. Accuracy real: 1%, fake: 99% - Loss real: 1.775, fake: 0.259 
+> Global Discrim. Accuracy real: 32%, fake: 76% - Loss real: 0.990, fake: 0.488 
+Epoch 101 :d_real[0.62385] d_fake[0.68727] g_BCE[0.79029] d_real2[0.59725] d_fake2[0.61652] g_BCE2[1.01112] g_mse[0.00813] 
+Epoch 102 :d_real[0.61225] d_fake[0.69400] g_BCE[0.77897] d_real2[0.60236] d_fake2[0.62501] g_BCE2[0.98498] g_mse[0.00802] 
+Epoch 103 :d_real[0.57251] d_fake[0.66723] g_BCE[0.81823] d_real2[0.61328] d_fake2[0.63083] g_BCE2[1.00917] g_mse[0.00784] 
+Epoch 104 :d_real[0.61854] d_fake[0.72293] g_BCE[0.74492] d_real2[0.61367] d_fake2[0.62846] g_BCE2[1.02549] g_mse[0.00785] 
+Epoch 105 :d_real[0.62685] d_fake[0.71979] g_BCE[0.74074] d_real2[0.61216] d_fake2[0.62725] g_BCE2[1.03989] g_mse[0.00778] 
+> PatchGAN Discrim. Accuracy real: 88%, fake: 12% - Loss real: 0.577, fake: 0.834 
+> Global Discrim. Accuracy real: 2%, fake: 99% - Loss real: 1.714, fake: 0.236 
+Epoch 106 :d_real[0.58443] d_fake[0.69907] g_BCE[0.76641] d_real2[0.60703] d_fake2[0.62082] g_BCE2[1.01962] g_mse[0.00786] 
+Epoch 107 :d_real[0.56839] d_fake[0.69729] g_BCE[0.76744] d_real2[0.61460] d_fake2[0.62931] g_BCE2[0.99820] g_mse[0.00778] 
+Epoch 108 :d_real[0.61584] d_fake[0.71934] g_BCE[0.73797] d_real2[0.60368] d_fake2[0.61748] g_BCE2[1.05004] g_mse[0.00770] 
+Epoch 109 :d_real[0.59794] d_fake[0.70984] g_BCE[0.74950] d_real2[0.61472] d_fake2[0.63754] g_BCE2[1.00580] g_mse[0.00772] 
+Epoch 110 :d_real[0.59692] d_fake[0.70751] g_BCE[0.75298] d_real2[0.57007] d_fake2[0.58569] g_BCE2[1.25579] g_mse[0.01076] 
+> PatchGAN Discrim. Accuracy real: 50%, fake: 52% - Loss real: 0.698, fake: 0.698 
+> Global Discrim. Accuracy real: 29%, fake: 86% - Loss real: 1.006, fake: 0.403 
+Epoch 111 :d_real[0.60172] d_fake[0.70600] g_BCE[0.75757] d_real2[0.60461] d_fake2[0.62771] g_BCE2[1.14506] g_mse[0.00833] 
+Epoch 112 :d_real[0.61447] d_fake[0.71762] g_BCE[0.73516] d_real2[0.62164] d_fake2[0.63930] g_BCE2[1.02489] g_mse[0.00763] 
+Epoch 113 :d_real[0.59670] d_fake[0.72255] g_BCE[0.72809] d_real2[0.62314] d_fake2[0.64443] g_BCE2[1.03684] g_mse[0.00757] 
+Epoch 114 :d_real[0.59774] d_fake[0.71799] g_BCE[0.72883] d_real2[0.62843] d_fake2[0.64365] g_BCE2[1.02000] g_mse[0.00731] 
+Epoch 115 :d_real[0.58940] d_fake[0.71898] g_BCE[0.72119] d_real2[0.62040] d_fake2[0.63336] g_BCE2[1.04075] g_mse[0.00739] 
+> PatchGAN Discrim. Accuracy real: 36%, fake: 60% - Loss real: 0.757, fake: 0.686 
+> Global Discrim. Accuracy real: 2%, fake: 99% - Loss real: 2.066, fake: 0.118 
+Epoch 116 :d_real[0.58362] d_fake[0.71161] g_BCE[0.72987] d_real2[0.61621] d_fake2[0.63105] g_BCE2[1.05041] g_mse[0.00732] 
+Epoch 117 :d_real[0.59439] d_fake[0.69960] g_BCE[0.74402] d_real2[0.62153] d_fake2[0.63473] g_BCE2[1.01505] g_mse[0.00741] 
+Epoch 118 :d_real[0.60779] d_fake[0.70579] g_BCE[0.74121] d_real2[0.63277] d_fake2[0.64315] g_BCE2[0.98853] g_mse[0.00715] 
+Epoch 119 :d_real[0.60983] d_fake[0.70758] g_BCE[0.73722] d_real2[0.62580] d_fake2[0.63490] g_BCE2[1.00362] g_mse[0.00708] 
+Epoch 120 :d_real[0.59730] d_fake[0.71196] g_BCE[0.73045] d_real2[0.62348] d_fake2[0.63127] g_BCE2[1.00296] g_mse[0.00721] 
+> PatchGAN Discrim. Accuracy real: 84%, fake: 18% - Loss real: 0.536, fake: 0.909 
+> Global Discrim. Accuracy real: 3%, fake: 97% - Loss real: 2.001, fake: 0.213 
+Epoch 121 :d_real[0.59930] d_fake[0.72786] g_BCE[0.71410] d_real2[0.62234] d_fake2[0.63442] g_BCE2[0.99328] g_mse[0.00733] 
+Epoch 122 :d_real[0.59962] d_fake[0.71166] g_BCE[0.72551] d_real2[0.63098] d_fake2[0.64269] g_BCE2[0.96562] g_mse[0.00713] 
+Epoch 123 :d_real[0.60558] d_fake[0.71419] g_BCE[0.72032] d_real2[0.62937] d_fake2[0.63736] g_BCE2[1.00312] g_mse[0.00711] 
+Epoch 124 :d_real[0.58784] d_fake[0.68859] g_BCE[0.74419] d_real2[0.55689] d_fake2[0.56706] g_BCE2[1.47237] g_mse[0.01497] 
+Epoch 125 :d_real[0.59767] d_fake[0.68654] g_BCE[0.74621] d_real2[0.61232] d_fake2[0.62751] g_BCE2[1.11013] g_mse[0.00797] 
+> PatchGAN Discrim. Accuracy real: 62%, fake: 39% - Loss real: 0.639, fake: 0.779 
+> Global Discrim. Accuracy real: 11%, fake: 97% - Loss real: 1.251, fake: 0.251 
+Epoch 126 :d_real[0.60721] d_fake[0.69492] g_BCE[0.73912] d_real2[0.62554] d_fake2[0.64127] g_BCE2[1.03049] g_mse[0.00744] 
+Epoch 127 :d_real[0.61733] d_fake[0.70040] g_BCE[0.73753] d_real2[0.62879] d_fake2[0.64149] g_BCE2[1.02774] g_mse[0.00721] 
+Epoch 128 :d_real[0.61817] d_fake[0.69729] g_BCE[0.74042] d_real2[0.63171] d_fake2[0.64234] g_BCE2[1.03982] g_mse[0.00697] 
+Epoch 129 :d_real[0.61502] d_fake[0.69649] g_BCE[0.73276] d_real2[0.62686] d_fake2[0.63688] g_BCE2[1.05390] g_mse[0.00705] 
+Epoch 130 :d_real[0.61408] d_fake[0.68949] g_BCE[0.73447] d_real2[0.62793] d_fake2[0.64259] g_BCE2[1.02234] g_mse[0.00702] 
+> PatchGAN Discrim. Accuracy real: 64%, fake: 39% - Loss real: 0.659, fake: 0.726 
+> Global Discrim. Accuracy real: 17%, fake: 88% - Loss real: 1.031, fake: 0.456 
+Epoch 131 :d_real[0.61152] d_fake[0.68291] g_BCE[0.74051] d_real2[0.62485] d_fake2[0.63916] g_BCE2[1.03949] g_mse[0.00700] 
+Epoch 132 :d_real[0.63534] d_fake[0.70891] g_BCE[0.70757] d_real2[0.62987] d_fake2[0.64378] g_BCE2[1.01981] g_mse[0.00694] 
+Epoch 133 :d_real[0.62867] d_fake[0.69781] g_BCE[0.72928] d_real2[0.63166] d_fake2[0.64546] g_BCE2[1.01517] g_mse[0.00681] 
+Epoch 134 :d_real[0.62774] d_fake[0.68631] g_BCE[0.74012] d_real2[0.63026] d_fake2[0.64454] g_BCE2[0.99945] g_mse[0.00682] 
+Epoch 135 :d_real[0.63132] d_fake[0.68618] g_BCE[0.73857] d_real2[0.63096] d_fake2[0.64314] g_BCE2[1.00805] g_mse[0.00686] 
+> PatchGAN Discrim. Accuracy real: 73%, fake: 28% - Loss real: 0.622, fake: 0.789 
+> Global Discrim. Accuracy real: 26%, fake: 86% - Loss real: 0.922, fake: 0.484 
+Epoch 136 :d_real[0.64253] d_fake[0.70393] g_BCE[0.72205] d_real2[0.62532] d_fake2[0.64739] g_BCE2[0.98578] g_mse[0.00690] 
+Epoch 137 :d_real[0.64021] d_fake[0.69741] g_BCE[0.72673] d_real2[0.62672] d_fake2[0.64610] g_BCE2[0.98391] g_mse[0.00682] 
+Epoch 138 :d_real[0.64978] d_fake[0.69376] g_BCE[0.73438] d_real2[0.63086] d_fake2[0.65008] g_BCE2[0.96886] g_mse[0.00672] 
+Epoch 139 :d_real[0.64772] d_fake[0.70336] g_BCE[0.72331] d_real2[0.63124] d_fake2[0.64864] g_BCE2[0.97760] g_mse[0.00671] 
+Epoch 140 :d_real[0.64455] d_fake[0.71062] g_BCE[0.71937] d_real2[0.62869] d_fake2[0.64008] g_BCE2[1.02787] g_mse[0.00680] 
+> PatchGAN Discrim. Accuracy real: 73%, fake: 32% - Loss real: 0.649, fake: 0.731 
+> Global Discrim. Accuracy real: 48%, fake: 77% - Loss real: 0.764, fake: 0.510 
+Epoch 141 :d_real[0.64349] d_fake[0.71565] g_BCE[0.72262] d_real2[0.62725] d_fake2[0.65081] g_BCE2[0.98873] g_mse[0.00673] 
+Epoch 142 :d_real[0.65022] d_fake[0.71524] g_BCE[0.72569] d_real2[0.63264] d_fake2[0.65383] g_BCE2[0.95387] g_mse[0.00666] 
+Epoch 143 :d_real[0.66156] d_fake[0.71525] g_BCE[0.71921] d_real2[0.63034] d_fake2[0.64986] g_BCE2[0.96630] g_mse[0.00686] 
+Epoch 144 :d_real[0.66757] d_fake[0.70896] g_BCE[0.72821] d_real2[0.62888] d_fake2[0.65251] g_BCE2[0.94700] g_mse[0.00672] 
+Epoch 145 :d_real[0.66902] d_fake[0.70805] g_BCE[0.73072] d_real2[0.63028] d_fake2[0.64884] g_BCE2[0.93704] g_mse[0.00659] 
+> PatchGAN Discrim. Accuracy real: 41%, fake: 62% - Loss real: 0.725, fake: 0.663 
+> Global Discrim. Accuracy real: 46%, fake: 70% - Loss real: 0.762, fake: 0.593 
+Epoch 146 :d_real[0.66527] d_fake[0.71086] g_BCE[0.72669] d_real2[0.63069] d_fake2[0.65246] g_BCE2[0.93602] g_mse[0.00661] 
+Epoch 147 :d_real[0.66547] d_fake[0.70833] g_BCE[0.73029] d_real2[0.62841] d_fake2[0.65058] g_BCE2[0.93166] g_mse[0.00659] 
+Epoch 148 :d_real[0.66713] d_fake[0.70774] g_BCE[0.73265] d_real2[0.62766] d_fake2[0.65156] g_BCE2[0.93195] g_mse[0.00647] 
+Epoch 149 :d_real[0.66207] d_fake[0.70916] g_BCE[0.73264] d_real2[0.62913] d_fake2[0.65363] g_BCE2[0.92940] g_mse[0.00645] 
+Epoch 150 :d_real[0.66399] d_fake[0.70322] g_BCE[0.73787] d_real2[0.62673] d_fake2[0.64894] g_BCE2[0.92844] g_mse[0.00656] 
+> PatchGAN Discrim. Accuracy real: 54%, fake: 49% - Loss real: 0.683, fake: 0.713 
+> Global Discrim. Accuracy real: 54%, fake: 63% - Loss real: 0.710, fake: 0.626 
+Epoch 151 :d_real[0.66003] d_fake[0.70903] g_BCE[0.73175] d_real2[0.63095] d_fake2[0.65032] g_BCE2[0.92235] g_mse[0.00642] 
+Epoch 152 :d_real[0.66265] d_fake[0.70194] g_BCE[0.74282] d_real2[0.62835] d_fake2[0.64971] g_BCE2[0.92092] g_mse[0.00659] 
+Epoch 153 :d_real[0.66069] d_fake[0.70321] g_BCE[0.74263] d_real2[0.63647] d_fake2[0.65538] g_BCE2[0.92019] g_mse[0.00635] 
+Epoch 154 :d_real[0.65823] d_fake[0.70360] g_BCE[0.73935] d_real2[0.63329] d_fake2[0.64935] g_BCE2[0.92071] g_mse[0.00641] 
+Epoch 155 :d_real[0.66125] d_fake[0.70161] g_BCE[0.73947] d_real2[0.63250] d_fake2[0.65338] g_BCE2[0.91213] g_mse[0.00626] 
+> PatchGAN Discrim. Accuracy real: 64%, fake: 38% - Loss real: 0.663, fake: 0.736 
+> Global Discrim. Accuracy real: 34%, fake: 87% - Loss real: 0.811, fake: 0.483 
+Epoch 156 :d_real[0.66097] d_fake[0.69909] g_BCE[0.74470] d_real2[0.63550] d_fake2[0.65555] g_BCE2[0.91286] g_mse[0.00632] 
+Epoch 157 :d_real[0.65923] d_fake[0.69970] g_BCE[0.74629] d_real2[0.63879] d_fake2[0.65733] g_BCE2[0.91196] g_mse[0.00632] 
+Epoch 158 :d_real[0.66433] d_fake[0.69758] g_BCE[0.74652] d_real2[0.63977] d_fake2[0.65646] g_BCE2[0.90821] g_mse[0.00616] 
+Epoch 159 :d_real[0.66063] d_fake[0.69802] g_BCE[0.74648] d_real2[0.63818] d_fake2[0.65602] g_BCE2[0.90428] g_mse[0.00617] 
+Epoch 160 :d_real[0.65691] d_fake[0.70327] g_BCE[0.74174] d_real2[0.63665] d_fake2[0.65782] g_BCE2[0.90012] g_mse[0.00627] 
+> PatchGAN Discrim. Accuracy real: 21%, fake: 81% - Loss real: 0.821, fake: 0.594 
+> Global Discrim. Accuracy real: 14%, fake: 92% - Loss real: 0.879, fake: 0.512 
+Epoch 161 :d_real[0.65314] d_fake[0.70292] g_BCE[0.74055] d_real2[0.63803] d_fake2[0.65704] g_BCE2[0.90400] g_mse[0.00619] 
+Epoch 162 :d_real[0.65712] d_fake[0.70413] g_BCE[0.73874] d_real2[0.63920] d_fake2[0.65985] g_BCE2[0.89302] g_mse[0.00607] 
+Epoch 163 :d_real[0.65397] d_fake[0.70641] g_BCE[0.73739] d_real2[0.64059] d_fake2[0.65977] g_BCE2[0.89470] g_mse[0.00606] 
+Epoch 164 :d_real[0.65400] d_fake[0.70722] g_BCE[0.73935] d_real2[0.63719] d_fake2[0.65445] g_BCE2[0.89602] g_mse[0.00610] 
+Epoch 165 :d_real[0.65889] d_fake[0.70456] g_BCE[0.73956] d_real2[0.64105] d_fake2[0.65980] g_BCE2[0.89339] g_mse[0.00593] 
+> PatchGAN Discrim. Accuracy real: 70%, fake: 33% - Loss real: 0.663, fake: 0.724 
+> Global Discrim. Accuracy real: 14%, fake: 93% - Loss real: 0.865, fake: 0.501 
+Epoch 166 :d_real[0.65786] d_fake[0.70748] g_BCE[0.73723] d_real2[0.64080] d_fake2[0.66293] g_BCE2[0.89209] g_mse[0.00611] 
+Epoch 167 :d_real[0.65523] d_fake[0.70935] g_BCE[0.73927] d_real2[0.64147] d_fake2[0.66394] g_BCE2[0.89231] g_mse[0.00603] 
+Epoch 168 :d_real[0.65444] d_fake[0.70983] g_BCE[0.74177] d_real2[0.63113] d_fake2[0.65979] g_BCE2[0.90787] g_mse[0.00717] 
+Epoch 169 :d_real[0.65895] d_fake[0.70722] g_BCE[0.74323] d_real2[0.64125] d_fake2[0.66625] g_BCE2[0.90525] g_mse[0.00600] 
+Epoch 170 :d_real[0.65759] d_fake[0.70597] g_BCE[0.74537] d_real2[0.64212] d_fake2[0.66687] g_BCE2[0.90100] g_mse[0.00594] 
+> PatchGAN Discrim. Accuracy real: 39%, fake: 64% - Loss real: 0.736, fake: 0.655 
+> Global Discrim. Accuracy real: 21%, fake: 89% - Loss real: 0.863, fake: 0.503 
+Epoch 171 :d_real[0.66156] d_fake[0.70417] g_BCE[0.74565] d_real2[0.64501] d_fake2[0.66742] g_BCE2[0.89509] g_mse[0.00588] 
+Epoch 172 :d_real[0.66414] d_fake[0.70192] g_BCE[0.74911] d_real2[0.64508] d_fake2[0.66827] g_BCE2[0.89358] g_mse[0.00588] 
+Epoch 173 :d_real[0.66559] d_fake[0.70017] g_BCE[0.75034] d_real2[0.64394] d_fake2[0.67157] g_BCE2[0.88770] g_mse[0.00583] 
+Epoch 174 :d_real[0.66257] d_fake[0.70388] g_BCE[0.74473] d_real2[0.64397] d_fake2[0.67256] g_BCE2[0.88768] g_mse[0.00589] 
+Epoch 175 :d_real[0.66040] d_fake[0.70747] g_BCE[0.74025] d_real2[0.64548] d_fake2[0.67167] g_BCE2[0.88224] g_mse[0.00580] 
+> PatchGAN Discrim. Accuracy real: 36%, fake: 66% - Loss real: 0.753, fake: 0.646 
+> Global Discrim. Accuracy real: 27%, fake: 87% - Loss real: 0.818, fake: 0.552 
+Epoch 176 :d_real[0.65793] d_fake[0.70728] g_BCE[0.74204] d_real2[0.64458] d_fake2[0.67333] g_BCE2[0.87837] g_mse[0.00588] 
+Epoch 177 :d_real[0.66099] d_fake[0.70575] g_BCE[0.74454] d_real2[0.64726] d_fake2[0.67910] g_BCE2[0.87381] g_mse[0.00584] 
+Epoch 178 :d_real[0.66125] d_fake[0.70954] g_BCE[0.73977] d_real2[0.64948] d_fake2[0.67943] g_BCE2[0.87063] g_mse[0.00577] 
+Epoch 179 :d_real[0.66458] d_fake[0.70394] g_BCE[0.75017] d_real2[0.64508] d_fake2[0.68046] g_BCE2[0.87341] g_mse[0.00596] 
+Epoch 180 :d_real[0.66712] d_fake[0.70058] g_BCE[0.75198] d_real2[0.64922] d_fake2[0.67909] g_BCE2[0.86582] g_mse[0.00576] 
+> PatchGAN Discrim. Accuracy real: 78%, fake: 22% - Loss real: 0.634, fake: 0.763 
+> Global Discrim. Accuracy real: 27%, fake: 89% - Loss real: 0.807, fake: 0.553 
+Epoch 181 :d_real[0.66591] d_fake[0.70155] g_BCE[0.75233] d_real2[0.65389] d_fake2[0.68083] g_BCE2[0.85875] g_mse[0.00581] 
+Epoch 182 :d_real[0.66917] d_fake[0.70014] g_BCE[0.75588] d_real2[0.64996] d_fake2[0.68107] g_BCE2[0.85714] g_mse[0.00574] 
+Epoch 183 :d_real[0.67028] d_fake[0.69809] g_BCE[0.75393] d_real2[0.64801] d_fake2[0.68131] g_BCE2[0.85993] g_mse[0.00572] 
+Epoch 184 :d_real[0.66893] d_fake[0.69927] g_BCE[0.75522] d_real2[0.64893] d_fake2[0.67862] g_BCE2[0.86024] g_mse[0.00570] 
+Epoch 185 :d_real[0.66643] d_fake[0.69962] g_BCE[0.75311] d_real2[0.64802] d_fake2[0.67967] g_BCE2[0.85415] g_mse[0.00567] 
+> PatchGAN Discrim. Accuracy real: 58%, fake: 44% - Loss real: 0.701, fake: 0.689 
+> Global Discrim. Accuracy real: 12%, fake: 95% - Loss real: 0.886, fake: 0.519 
+Epoch 186 :d_real[0.66577] d_fake[0.70451] g_BCE[0.74853] d_real2[0.65066] d_fake2[0.67728] g_BCE2[0.85822] g_mse[0.00574] 
+Epoch 187 :d_real[0.67187] d_fake[0.69945] g_BCE[0.75223] d_real2[0.64844] d_fake2[0.68069] g_BCE2[0.84879] g_mse[0.00556] 
+Epoch 188 :d_real[0.66967] d_fake[0.69911] g_BCE[0.75155] d_real2[0.64706] d_fake2[0.67900] g_BCE2[0.84957] g_mse[0.00560] 
+Epoch 189 :d_real[0.66923] d_fake[0.69822] g_BCE[0.75691] d_real2[0.64889] d_fake2[0.67671] g_BCE2[0.85512] g_mse[0.00566] 
+Epoch 190 :d_real[0.67121] d_fake[0.69670] g_BCE[0.75757] d_real2[0.65185] d_fake2[0.67935] g_BCE2[0.85728] g_mse[0.00557] 
+> PatchGAN Discrim. Accuracy real: 30%, fake: 72% - Loss real: 0.760, fake: 0.637 
+> Global Discrim. Accuracy real: 28%, fake: 84% - Loss real: 0.823, fake: 0.548 
+Epoch 191 :d_real[0.67233] d_fake[0.69683] g_BCE[0.75759] d_real2[0.64961] d_fake2[0.67760] g_BCE2[0.85610] g_mse[0.00557] 
+Epoch 192 :d_real[0.67473] d_fake[0.69547] g_BCE[0.75585] d_real2[0.65261] d_fake2[0.67701] g_BCE2[0.85583] g_mse[0.00555] 
+Epoch 193 :d_real[0.67470] d_fake[0.69607] g_BCE[0.75996] d_real2[0.64989] d_fake2[0.67650] g_BCE2[0.86349] g_mse[0.00563] 
+Epoch 194 :d_real[0.67173] d_fake[0.69900] g_BCE[0.75621] d_real2[0.64768] d_fake2[0.67433] g_BCE2[0.86659] g_mse[0.00556] 
+Epoch 195 :d_real[0.67108] d_fake[0.69511] g_BCE[0.76335] d_real2[0.64651] d_fake2[0.67341] g_BCE2[0.87202] g_mse[0.00562] 
+> PatchGAN Discrim. Accuracy real: 34%, fake: 69% - Loss real: 0.781, fake: 0.624 
+> Global Discrim. Accuracy real: 19%, fake: 90% - Loss real: 0.925, fake: 0.503 
+Epoch 196 :d_real[0.66880] d_fake[0.69748] g_BCE[0.76174] d_real2[0.64660] d_fake2[0.67232] g_BCE2[0.87076] g_mse[0.00559] 
+Epoch 197 :d_real[0.67002] d_fake[0.69642] g_BCE[0.76184] d_real2[0.64666] d_fake2[0.67378] g_BCE2[0.86748] g_mse[0.00558] 
+Epoch 198 :d_real[0.67093] d_fake[0.69559] g_BCE[0.76182] d_real2[0.64426] d_fake2[0.67324] g_BCE2[0.87118] g_mse[0.00548] 
+Epoch 199 :d_real[0.67232] d_fake[0.69769] g_BCE[0.75785] d_real2[0.64566] d_fake2[0.67178] g_BCE2[0.86484] g_mse[0.00549] 
+Epoch 200 :d_real[0.67206] d_fake[0.69749] g_BCE[0.75945] d_real2[0.64924] d_fake2[0.67027] g_BCE2[0.86413] g_mse[0.00544] 
+> PatchGAN Discrim. Accuracy real: 54%, fake: 49% - Loss real: 0.719, fake: 0.719 
+> Global Discrim. Accuracy real: 30%, fake: 83% - Loss real: 0.833, fake: 0.558 
+Epoch 201 :d_real[0.67150] d_fake[0.69820] g_BCE[0.75763] d_real2[0.64721] d_fake2[0.66635] g_BCE2[0.87392] g_mse[0.00579] 
+Epoch 202 :d_real[0.67449] d_fake[0.69814] g_BCE[0.76096] d_real2[0.64618] d_fake2[0.67053] g_BCE2[0.86991] g_mse[0.00545] 
+Epoch 203 :d_real[0.67414] d_fake[0.69956] g_BCE[0.75685] d_real2[0.64651] d_fake2[0.66935] g_BCE2[0.86617] g_mse[0.00538] 
+Epoch 204 :d_real[0.67511] d_fake[0.70104] g_BCE[0.75295] d_real2[0.64839] d_fake2[0.66690] g_BCE2[0.86628] g_mse[0.00534] 
+Epoch 205 :d_real[0.67702] d_fake[0.69702] g_BCE[0.75917] d_real2[0.64482] d_fake2[0.66649] g_BCE2[0.86902] g_mse[0.00542] 
+> PatchGAN Discrim. Accuracy real: 64%, fake: 36% - Loss real: 0.663, fake: 0.744 
+> Global Discrim. Accuracy real: 23%, fake: 85% - Loss real: 0.870, fake: 0.543 
+Epoch 206 :d_real[0.67843] d_fake[0.69764] g_BCE[0.75597] d_real2[0.64418] d_fake2[0.66264] g_BCE2[0.86991] g_mse[0.00542] 
+Epoch 207 :d_real[0.67947] d_fake[0.69825] g_BCE[0.75709] d_real2[0.64479] d_fake2[0.66705] g_BCE2[0.87134] g_mse[0.00537] 
+Epoch 208 :d_real[0.68246] d_fake[0.69492] g_BCE[0.76031] d_real2[0.64471] d_fake2[0.66835] g_BCE2[0.86568] g_mse[0.00531] 
+Epoch 209 :d_real[0.68313] d_fake[0.69594] g_BCE[0.75641] d_real2[0.64564] d_fake2[0.66383] g_BCE2[0.86971] g_mse[0.00535] 
+Epoch 210 :d_real[0.67477] d_fake[0.69260] g_BCE[0.77182] d_real2[0.60906] d_fake2[0.63184] g_BCE2[0.98686] g_mse[0.01226] 
+> PatchGAN Discrim. Accuracy real: 41%, fake: 61% - Loss real: 0.792, fake: 0.639 
+> Global Discrim. Accuracy real: 44%, fake: 70% - Loss real: 0.753, fake: 0.603 
+Epoch 211 :d_real[0.67942] d_fake[0.69836] g_BCE[0.75417] d_real2[0.63393] d_fake2[0.66438] g_BCE2[0.92166] g_mse[0.00626] 
